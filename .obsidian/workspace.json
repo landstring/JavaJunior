@@ -152,6 +152,66 @@
             }
           },
           {
+            "id": "201fffa07655135b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3478d035a46d3af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0f615200a4f8d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d48ecd889699b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1691622262ed18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d1d364c702fa4cbe",
             "type": "leaf",
             "state": {
@@ -164,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -291,10 +351,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "131f05bfdccaaa39",
+  "active": "d1691622262ed18c",
   "lastOpenFiles": [
-    "Глава 2. Переходный этап/Коллекции/Итераторы.md",
+    "Глава 2. Переходный этап/Строки/StringBuffer и StringBuilder.md",
     "Roadmap.md",
+    "Глава 2. Переходный этап/Строки/Основные операции со строками.md",
+    "Картинки/Pasted image 20230901205527.png",
+    "Глава 2. Переходный этап/Строки/Работа со строками.md",
+    "Глава 2. Переходный этап/Строки/Строки.md",
+    "Глава 2. Переходный этап/Строки",
+    "Глава 2. Переходный этап/Сериализация.md",
+    "Глава 2. Переходный этап/Коллекции/Итераторы.md",
     "Глава 2. Переходный этап/Коллекции/Интерфейсы SortedMap и NavigableMap. Класс TreeMap.md",
     "Глава 2. Переходный этап/Коллекции/Интерфейс Map и класс HashMap.md",
     "Глава 2. Переходный этап/Коллекции/Интерфейсы Comparable и Comparator. Сортировка.md",
@@ -322,16 +389,10 @@
     "Глава 1. Фундамент/Garbage Collector.md",
     "Глава 1. Фундамент/Устройство JVM.md",
     "Глава 1. Фундамент/ООП/Модификаторы доступа и инкапсуляция.md",
-    "Глава 1. Фундамент/ООП/Records.md",
     "Картинки/Pasted image 20230825233831.png",
     "Картинки/Pasted image 20230825233657.png",
     "Картинки/Pasted image 20230825233230.png",
     "Картинки/Pasted image 20230825232331.png",
-    "Глава 1. Фундамент/ООП/Ссылочные типы и копирование объектов.md",
-    "Картинки/Pasted image 20230825231009.png",
-    "Глава 1. Фундамент/ООП/Наследование и обобщения.md",
-    "Глава 1. Фундамент/ООП/Ограничения обобщений.md",
-    "Глава 1. Фундамент/ООП/Обобщения (Generics).md",
     "Глава 1. Фундамент/ООП",
     "Глава 1. Структуры, JVM, Collections/Collections",
     "Без названия.canvas",
