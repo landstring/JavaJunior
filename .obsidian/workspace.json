@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bc9eb28f4ee7432",
+            "id": "258ebd84ae9b89fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "7d09d46354731caa",
+            "id": "1a2a7e814d2a92aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,175 +32,7 @@
             }
           },
           {
-            "id": "c05477db0e547f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be850102a7e33f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e42b9b68dad9e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a40f26428de3420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8f2791659c9914d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "212d57d7bfe52939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42d2de9bcb9912bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aacc0fdf37a66b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2addd9f29a210238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "131f05bfdccaaa39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "201fffa07655135b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3478d035a46d3af6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f615200a4f8d40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d48ecd889699b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1691622262ed18c",
+            "id": "6f512403e945d5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -351,10 +183,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d1691622262ed18c",
+  "active": "6f512403e945d5df",
   "lastOpenFiles": [
-    "Глава 2. Переходный этап/Строки/StringBuffer и StringBuilder.md",
+    "Глава 2. Переходный этап/Лямбда/Встроенные функциональные интерфейсы.md",
+    "Картинки/Pasted image 20230904201822.png",
     "Roadmap.md",
+    "Глава 2. Переходный этап/Лямбда/Лямбды как параметры и результаты методов.md",
+    "Глава 2. Переходный этап/Лямбда/Введение в лямбда-выражения.md",
+    "Глава 2. Переходный этап/Лямбда/Лямбда-выражения.md",
+    "Глава 2. Переходный этап/Лямбда",
+    "Глава 2. Переходный этап/Строки/StringBuffer и StringBuilder.md",
     "Глава 2. Переходный этап/Строки/Основные операции со строками.md",
     "Картинки/Pasted image 20230901205527.png",
     "Глава 2. Переходный этап/Строки/Работа со строками.md",
@@ -384,15 +222,9 @@
     "Глава 1. Фундамент/Исключения/Обработка исключений.md",
     "Глава 1. Фундамент/Исключения/Исключения.md",
     "Глава 1. Фундамент/Исключения",
-    "Глава 1. Фундамент/ООП/Абстрактные классы.md",
-    "Глава 1. Фундамент/ООП/Статические члены и модификатор static.md",
-    "Глава 1. Фундамент/Garbage Collector.md",
-    "Глава 1. Фундамент/Устройство JVM.md",
-    "Глава 1. Фундамент/ООП/Модификаторы доступа и инкапсуляция.md",
     "Картинки/Pasted image 20230825233831.png",
     "Картинки/Pasted image 20230825233657.png",
     "Картинки/Pasted image 20230825233230.png",
-    "Картинки/Pasted image 20230825232331.png",
     "Глава 1. Фундамент/ООП",
     "Глава 1. Структуры, JVM, Collections/Collections",
     "Без названия.canvas",
