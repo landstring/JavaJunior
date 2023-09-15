@@ -13,74 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a99720a19ee998f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b0fc303573d9e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf434bfb9cdbfb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ea6ea74a614d3ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2047a46eb2b024f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Глава 2. Переходный этап/StreamAPI/Параллельные операции над массивами.md",
+                "file": "Чистый код.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 2. Переходный этап/StreamAPI/Параллельные операции над массивами.md",
+                "file": "Чистый код.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 2. Переходный этап/StreamAPI/Параллельные операции над массивами.md",
+                "file": "Чистый код.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 2. Переходный этап/StreamAPI/Параллельные операции над массивами.md"
+                "file": "Чистый код.md"
+              }
+            }
+          },
+          {
+            "id": "a32fe00f48f5eb7a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -207,13 +156,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "50ebcafb91ceb8c2",
+  "active": "6f512403e945d5df",
   "lastOpenFiles": [
+    "Roadmap.md",
+    "Чистый код.md",
+    "Глава 3. Рефакторинг",
     "Картинки/Pasted image 20230912185940.png",
     "Картинки/Pasted image 20230912185753.png",
     "Картинки/Pasted image 20230912185636.png",
     "Картинки/Pasted image 20230912185521.png",
-    "Roadmap.md",
     "Глава 2. Переходный этап/StreamAPI/Параллельные операции над массивами.md",
     "Глава 2. Переходный этап/StreamAPI/Параллельные потоки.md",
     "Картинки/Pasted image 20230912185258.png",
@@ -227,7 +178,6 @@
     "Глава 2. Переходный этап/StreamAPI/Тип Optional.md",
     "Глава 2. Переходный этап/StreamAPI/Метод reduce.md",
     "Глава 2. Переходный этап/StreamAPI/Операции сведения.md",
-    "Картинки/Pasted image 20230912183147.png",
     "Глава 2. Переходный этап/StreamAPI/Методы skip и limit.md",
     "Глава 2. Переходный этап/StreamAPI/Получение подпотока и объединение потоков.md",
     "Глава 2. Переходный этап/StreamAPI/Фильтрация, перебор элементов и отображение.md",
