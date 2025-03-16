@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "08062404ea2e84bb",
+        "id": "e89f6dbaf8fe7005",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd66c87b529e3b2",
+            "id": "cb9e1c98e7e5310f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глава 5. Spring/DI контейнер.md",
+                "file": "Глава 7. Docker/Docker.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глава 5. Spring/DI контейнер.md",
+                "file": "Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Roadmap"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глава 5. Spring/DI контейнер.md",
+                "file": "Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Roadmap"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глава 5. Spring/DI контейнер.md"
-              }
+                "file": "Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Roadmap"
             }
           },
           {
@@ -138,7 +160,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ]
@@ -158,16 +182,30 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4fd66c87b529e3b2",
+  "active": "cb9e1c98e7e5310f",
   "lastOpenFiles": [
-    "Глава 3. Архитектура и паттерны/SOLID.md",
+    "Картинки/Pasted image 20250317004600.png",
+    "Картинки/Pasted image 20250317003510.png",
+    "Картинки/Pasted image 20250317003315.png",
+    "Roadmap.md",
+    "Глава 7. Docker/Docker.md",
+    "Глава 7. Docker",
+    "Глава 1. Фундамент/Структуры данных/Очередь.md",
+    "Глава 2. Переходный этап/StreamAPI/Группировка.md",
+    "Глава 1. Фундамент/Структуры данных/Массив.md",
+    "Глава 1. Фундамент/Устройство JVM.md",
+    "Глава 1. Фундамент/Garbage Collector.md",
     "Глава 4. Сети/OSI.md",
+    "Глава 4. Сети/TCP_IP.md",
+    "Глава 6. Базы данных/DDL.md",
+    "Глава 6. Базы данных/Сложные запросы.md",
+    "Глава 6. Базы данных/Простые запросы.md",
+    "Глава 6. Базы данных/Проектирование БД.md",
+    "Глава 3. Архитектура и паттерны/SOLID.md",
+    "Глава 5. Spring/DI контейнер.md",
     "Глава 3. Архитектура и паттерны/Паттерны проектирования/Паттерны проектирования.md",
     "Глава 3. Архитектура и паттерны/Паттерны проектирования/Dependency injection.md",
     "Глава 3. Архитектура и паттерны/Чистый код.md",
-    "Глава 5. Spring/DI контейнер.md",
-    "Roadmap.md",
-    "Глава 4. Сети/TCP_IP.md",
     "Глава 2. Переходный этап/Аннотации.md",
     "Глава 1. Фундамент/ООП/Класс Object и его методы.md",
     "Глава 2. Переходный этап/Сериализация.md",
@@ -175,17 +213,6 @@
     "Глава 2. Переходный этап/Исключения/Исключения.md",
     "Глава 2. Переходный этап/Исключения/Создание своих классов исключений.md",
     "Глава 2. Переходный этап/Исключения/Обработка исключений.md",
-    "Глава 2. Переходный этап/Исключения/Классы исключений.md",
-    "Глава 1. Фундамент/ООП/Перечисления Enum.md",
-    "Глава 1. Фундамент/ООП/Статические члены и модификатор static.md",
-    "Глава 1. Фундамент/ООП/Объекты как параметры методов.md",
-    "Глава 1. Фундамент/ООП/Ограничения обобщений.md",
-    "Глава 1. Фундамент/ООП/Ссылочные типы и копирование объектов.md",
-    "Глава 1. Фундамент/Garbage Collector.md",
-    "Глава 1. Фундамент/ООП/Records.md",
-    "Глава 1. Фундамент/ООП/Иерархия наследования и преобразование типов.md",
-    "Глава 6. Базы данных/DDL.md",
-    "Глава 1. Фундамент/ООП/Интерфейсы.md",
     "Глава 6. Базы данных",
     "Глава 5. Spring",
     "Картинки/Pasted image 20230926083319.png",
@@ -196,8 +223,6 @@
     "Картинки/Pasted image 20230926083114.png",
     "Картинки/Pasted image 20230926083104.png",
     "Картинки/Pasted image 20230926083046.png",
-    "Картинки/Pasted image 20230926083035.png",
-    "Картинки/Pasted image 20230926083027.png",
     "TCP/Без названия",
     "TCP",
     "Глава 4. Сети",
@@ -205,7 +230,6 @@
     "Глава 3. Архитектура и паттерны",
     "Глава 3. Рефакторинг",
     "Глава 2. Переходный этап/StreamAPI",
-    "Глава 2. Переходный этап/Лямбда",
     "Без названия.canvas"
   ]
 }
